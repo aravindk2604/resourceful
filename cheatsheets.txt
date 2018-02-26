@@ -1,0 +1,4 @@
+Markdown: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+ROS Indigo: http://www.cs.uml.edu/~holly/teaching/4510and5490/fall2017/RosIndigoTips.pdf
+git: https://www.git-tower.com/blog/git-cheat-sheet/
+rST: https://thomas-cokelaer.info/tutorials/sphinx/rest_syntax.html
