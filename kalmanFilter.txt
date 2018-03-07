@@ -3,3 +3,4 @@ http://www.bzarg.com/p/how-a-kalman-filter-works-in-pictures/
 https://en.wikipedia.org/wiki/Kalman_filter
 https://www.youtube.com/watch?v=bm3cwEP2nUo
 https://www.youtube.com/watch?time_continue=120&v=O5hxXgWlR04
+http://blog.tkjelectronics.dk/2012/09/a-practical-approach-to-kalman-filter-and-how-to-implement-it/
