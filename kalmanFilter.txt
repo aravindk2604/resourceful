@@ -6,3 +6,5 @@ https://www.youtube.com/watch?time_continue=120&v=O5hxXgWlR04
 http://blog.tkjelectronics.dk/2012/09/a-practical-approach-to-kalman-filter-and-how-to-implement-it/
 Complementary filter: http://robottini.altervista.org/wp-content/uploads/2014/04/filter.pdf
 Comparing Linear & Non-linear filters: https://www.mathworks.com/videos/understanding-kalman-filters-part-5-nonlinear-state-estimators-1495052905460.html
+Complete derivation: http://users.isr.ist.utl.pt/~mir/pub/kalman.pdf
+Introducing speed estimates: https://dsp.stackexchange.com/questions/8860/kalman-filter-for-position-and-velocity-introducing-speed-estimates
